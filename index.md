@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Page :)
 
 You can use the [editor on GitHub](https://github.com/Jules22-dev/jules22-dev.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,15 +11,21 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# About me
+Hello, my name is Julia and I live in Vienna, Austria. 
+I am new to this whole coding world but I will try my best to fit in.
+## Things I like
+- My hamster Yzma
+- Old disney movies
+- Spending time outside in the nature
+- Cooking and good food
+- Cats
+- Trying new things like this ;) 
+### What I'd like to do here
+- Learn to code in different languages
+- Get to know and meet interesting people
+- Get interesting insights
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
